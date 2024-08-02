@@ -5,7 +5,7 @@ Welcome to Grilli! This project is a simple implementation of a responsive singl
  
 ## Demo
 
-You can check it out live [here]https://pranjal22082001.github.io/restaurant-website/
+You can check it out live [here](https://pranjal22082001.github.io/restaurant-website/)
 
 ## To Run the Game Locally
 
